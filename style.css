@@ -1,0 +1,32 @@
+.gradient-background {
+    background: linear-gradient(300deg,#8a5b87,#474071, #3e62b1);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+
+  }
+  .text-color {
+    color:rgb(11, 14, 67);
+  }
+
+  .text-colorp{
+color:black;
+  }
+
+  body {
+    font-family:"poppins", sans-serif;
+  }
+
+  .profile-image {
+    border-radius:50%;
+    height:200px;
+    margin-top: 10px;
+    
+   
+
+  }
+  h2 {
+    text-align: center;
+  }
+  .button {
+    background-color: rgb(21, 24, 72);
+  }
